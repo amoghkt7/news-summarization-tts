@@ -63,6 +63,9 @@ To deploy on **Hugging Face Spaces**, follow these steps:
 3️⃣ **Set "App File" to `app.py`** in the Space settings  
 4️⃣ **Restart the Space**  
 
+https://amoghkt007-news-summarization-tts.hf.space/
+
+
 
 ## 👨‍💻 Technologies Used  
 ✔ **Python**  
