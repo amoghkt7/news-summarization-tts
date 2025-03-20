@@ -75,7 +75,7 @@ To deploy on **Hugging Face Spaces**, follow these steps:
 
 ## 📡 API Usage & Development
 
-oject does not use a separate FastAPI backend, the processing happens directly inside Streamlit. However, API-like behavior can be simulated with Streamlit’s UI components.
+Oject does not use a separate FastAPI backend, the processing happens directly inside Streamlit. However, API-like behavior can be simulated with Streamlit’s UI components.
 
 External APIs Used
 
