@@ -65,6 +65,10 @@ To deploy on **Hugging Face Spaces**, follow these steps:
 
 https://amoghkt007-news-summarization-tts.hf.space/
 
+⚠ Note: The application may take up to 1 minute to process and display results due to multiple NLP operations, including news fetching, text summarization, sentiment analysis, topic extraction, and TTS generation. Please be patient while the application runs.
+
+All dependencies are listed in requirements.txt, and the im
+
 
 
 ## 👨‍💻 Technologies Used  
