@@ -28,10 +28,14 @@ Ensure you have Python installed, then install the required libraries:
 ```bash
 pip install -r requirements.txt
 
+```
+
 2️⃣ Run the Streamlit App
-bash
+```bash
 
 streamlit run app.py
+
+```
 🌐 Usage
 📌 Fetch News, Summarize, & Analyze
 1️⃣ Enter Company Name
