@@ -77,6 +77,7 @@ To deploy on Hugging Face Spaces, follow these steps:
 4️⃣ Restart the Space
 
 👨‍💻 Technologies Used
+
 ✔ Python
 
 ✔ Streamlit
