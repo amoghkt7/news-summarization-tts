@@ -59,7 +59,6 @@ To deploy on Hugging Face Spaces, follow these steps:
 3️⃣ Set "App File" to app.py in the Space settings
 4️⃣ Restart the Space
 
-
 👨‍💻 Technologies Used
 ✔ Python
 ✔ Streamlit
@@ -68,4 +67,5 @@ To deploy on Hugging Face Spaces, follow these steps:
 ✔ VADER Sentiment Analysis
 ✔ KeyBERT (Topic Extraction)
 ✔ gTTS (Text-to-Speech)
+
 
