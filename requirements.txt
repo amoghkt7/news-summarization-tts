@@ -9,3 +9,4 @@ nltk
 sumy
 fastapi
 uvicorn
+keybert
